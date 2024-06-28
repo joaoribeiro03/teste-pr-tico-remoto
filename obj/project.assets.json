@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Particular\\Desktop\\teste c#\\teste-prático-online\\teste-prático-online.csproj",
+      "projectUniqueName": "C:\\Users\\Particular\\Desktop\\teste c#\\teste_pratico_online\\teste-prático-online.csproj",
       "projectName": "teste-prático-online",
-      "projectPath": "C:\\Users\\Particular\\Desktop\\teste c#\\teste-prático-online\\teste-prático-online.csproj",
+      "projectPath": "C:\\Users\\Particular\\Desktop\\teste c#\\teste_pratico_online\\teste-prático-online.csproj",
       "packagesPath": "C:\\Users\\Particular\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Particular\\Desktop\\teste c#\\teste-prático-online\\obj\\",
+      "outputPath": "C:\\Users\\Particular\\Desktop\\teste c#\\teste_pratico_online\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Particular\\AppData\\Roaming\\NuGet\\NuGet.Config"

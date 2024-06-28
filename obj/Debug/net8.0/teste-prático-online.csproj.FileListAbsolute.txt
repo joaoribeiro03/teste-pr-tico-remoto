@@ -1,0 +1,15 @@
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\bin\Debug\net8.0\teste-prático-online.exe
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\bin\Debug\net8.0\teste-prático-online.deps.json
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\bin\Debug\net8.0\teste-prático-online.runtimeconfig.json
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\bin\Debug\net8.0\teste-prático-online.dll
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\bin\Debug\net8.0\teste-prático-online.pdb
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.AssemblyInfoInputs.cache
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.AssemblyInfo.cs
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.csproj.CoreCompileInputs.cache
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.sourcelink.json
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.dll
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\refint\teste-prático-online.dll
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.pdb
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\teste-prático-online.genruntimeconfig.cache
+C:\Users\Particular\Desktop\teste c#\teste-prático-online\obj\Debug\net8.0\ref\teste-prático-online.dll

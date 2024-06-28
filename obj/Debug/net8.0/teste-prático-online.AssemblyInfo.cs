@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste-prático-online")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1a0b47574593b60bf02618233f6bcc50d51062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e8ebb9163f4fc8735289752eeb356960ac45b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste-prático-online")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste-prático-online")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

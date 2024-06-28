@@ -20,11 +20,11 @@ namespace EficienciaDosAlunos
                 amostra.Add(entrada);
             }
 
-            double eficiencia = CalculateEfficiency(amostra);
+            double eficiencia = CalcularEficiencia(amostra);
             Console.WriteLine($"Notas: {string.Join(", ", amostra)} - Eficiência: {eficiencia:F3}%");
 
         }
-        static double CalculateEfficiency(List<int> listaDeNotas)
+        static double CalcularEficiencia(List<int> listaDeNotas)
         {
             double media;
             int soma = 0;
